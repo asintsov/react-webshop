@@ -1,7 +1,7 @@
 # Steps to run the project:
-1. Clone main branch to your machine
-2. Execute "npm install"
-3. Run terminal and execute "npm run server"
+1. Clone the main branch to your machine
+2. Run terminal and execute "npm install"
+3. Execute "npm run server"
 4. Run another terminal and execute "npm run client"
 5. Open "localhost: 3000" in browser
 
